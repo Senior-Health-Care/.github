@@ -71,7 +71,6 @@
                 <li><strong>Prioritizing Mental Health:</strong> Engage in activities that promote mental and emotional well-being, such as social interaction and hobbies.</li>
                 <li><strong>Regular Checkups:</strong> Schedule regular checkups with your doctor to monitor your health and address any concerns.</li>
             </ul>
-    ![maxresdefault](https://github.com/user-attachments/assets/9aae69e0-ec51-4adf-83e0-d157465b9e76)
     </main>
     <footer>
         <p><center>2025 Senior Health Care Guide</center></p>
